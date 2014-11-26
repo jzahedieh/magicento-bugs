@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <JZ_MagicentoBugs>
+            <active>true</active>
+            <codePool>local</codePool>
+        </JZ_MagicentoBugs>
+    </modules>
+</config>

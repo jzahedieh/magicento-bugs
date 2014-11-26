@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <JZ_MagicentoBugs>
+            <version>0.1.0</version>
+        </JZ_MagicentoBugs>
+    </modules>
+    <global>
+        <blocks>
+            <jz_magicentobugs>
+                <class>JZ_MagicentoBugs_Block</class>
+            </jz_magicentobugs>
+        </blocks>
+    </global>
+</config>
